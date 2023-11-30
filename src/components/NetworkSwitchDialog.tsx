@@ -46,7 +46,7 @@ export default function NetworkSwitchDialog({ isOpen }: Props) {
           </div>
           <DialogTitle>Switch to {CHAIN.name}</DialogTitle>
           <DialogDescription>
-            Wallaby Pay uses{" "}
+            LUV NFT Pay uses{" "}
             <Link
               className="underline"
               href="https://ethereum.org/en/wallets/"

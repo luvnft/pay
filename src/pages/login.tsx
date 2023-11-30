@@ -31,7 +31,7 @@ export default function Login() {
             Let&rsquo;s get started.
           </h1>
           <p className="text-md lg:text-lg text-muted-foreground mt-6 mb-6 max-w-xl leading-normal text-center lg:text-start">
-            Wallaby Pay uses{" "}
+            LUV NFT Pay uses{" "}
             <Link
               className="underline"
               href="https://ethereum.org/en/wallets/"

@@ -14,12 +14,12 @@ export default function Home() {
     <AppContainer>
       <div className="container justify-center flex flex-col lg:flex-row lg:justify-around items-center gap-8 lg:gap-0">
         <div className="mt-48 lg:-mt-72 flex flex-col items-center lg:items-start">
-          <Badge className="w-24">Wallaby Pay</Badge>
+          <Badge className="w-24">🏦 PAY</Badge>
           <h1 className="mt-4 text-5xl lg:text-7xl font-bold lg:font-extrabold max-w-xl leading-snug text-center lg:text-start text-slate-900">
-            The Simplest Way to Pay Your Friends.
+            IN LUV WE TRUST
           </h1>
           <p className="text-lg lg:text-xl text-muted-foreground mt-6 mb-4 lg:mb-8 max-w-2xl leading-normal text-center lg:text-start">
-            Send money to anyone in the world money in under 5 seconds.
+            Send money to anyone in the world money in under 4 seconds. It was the no fees for me.
           </p>
 
           <div className="flex flex-col lg:flex-row gap-4 w-full lg:w-auto justify-center lg:justify-start">
@@ -30,7 +30,7 @@ export default function Home() {
             </Link>
 
             <Link
-              href="https://github.com/jarrodwatts/wallabypay"
+              href="https://luvnft.com"
               target="_blank"
               passHref
             >
@@ -38,7 +38,7 @@ export default function Home() {
                 variant="outline"
                 className="w-full lg:w-48 h-14 text-lg font-semibold"
               >
-                View GitHub
+                LUV NFT
               </Button>
             </Link>
           </div>

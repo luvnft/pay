@@ -1,11 +1,11 @@
 <p align="center">
     <br />
     <a href="https://thirdweb.com">
-        <img src="./public/banner.png" width="1235" alt="Wallaby Pay Banner Image"/></a>
+        <img src="./public/banner.png" width="1235" alt="LUV NFT Pay Banner Image"/></a>
     <br />
 </p>
 
-<h1 align="center">Wallaby Pay 🦘</h1>
+<h1 align="center">LUV NFT Pay 🦘</h1>
 
 <p align="center">
    An open-source web3 product to help you build your own frontend web3 applications.
@@ -15,12 +15,12 @@
 
 ## What is this?
 
-Wallaby Pay is a simple web3 application that allows users to connect or create a wallet, and send funds to other users.
+LUV NFT Pay is a simple web3 application that allows users to connect or create a wallet, and send funds to other users.
 It uses the [Polygon zkEVM](https://polygon.technology/polygon-zkevm) to allow for fast, cheap transactions between users, but works out of the box with any EVM-compatible blockchain!
 
 ## Features
 
-Wallaby Pay uses modern frontend tools and libraries to create a simple, yet powerful web3 application. It includes features such as:
+LUV NFT Pay uses modern frontend tools and libraries to create a simple, yet powerful web3 application. It includes features such as:
 
 - Creating wallets for users by having them sign in with Google, Facebook, or Apple.
 - Transferring funds between users by looking up their Lens handle.

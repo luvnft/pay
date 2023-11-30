@@ -8,26 +8,26 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head />
-      <title>Wallaby Pay</title>
+      <title>LUV NFT Pay</title>
       <link rel="icon" href="/favicon.ico" />
       <meta name="viewport" content="width=device-width, user-scalable=no" />
       <meta name="theme-color" content="#ffffff" />
       <meta
         name="description"
-        content="Wallaby Pay - Send cryptocurrency to one another with ease."
+        content="LUV NFT Pay - Send cryptocurrency to one another with ease."
       />
       <meta
         name="keywords"
-        content="Wallaby Pay, cryptocurrency, send cryptocurrency, digital payments"
+        content="LUV NFT Pay, cryptocurrency, send cryptocurrency, digital payments"
       />
-      <meta name="author" content="Jarrod Watts" />
-      <meta name="og:title" content="Wallaby Pay" />
+      <meta name="author" content="The Wizard of Hahz" />
+      <meta name="og:title" content="LUV NFT Pay" />
       <meta
         name="og:description"
         content="A secure and user-friendly app for sending cryptocurrency."
       />
       <meta name="og:type" content="website" />
-      <meta name="og:url" content="https://www.wallabypay.com"></meta>
+      <meta name="og:url" content="https://pay.luvnft.com"></meta>
       <body>
         <Main />
         <NextScript />

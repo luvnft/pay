@@ -52,9 +52,9 @@ export default function WalletConnectSection() {
                 width: 150,
                 height: 150,
               },
-              title: "Connect a wallet to use Wallaby Pay",
+              title: "Connect a wallet to use LUV NFT Pay",
               subtitle:
-                "Wallets help you access your digital assets and sign in to web3 applications.",
+                "Wallets help you access your digital assets and sign in to web5 applications.",
             }}
             modalTitleIconUrl={""}
             style={{ width: "90%", marginBottom: 12 }}
@@ -90,9 +90,9 @@ export default function WalletConnectSection() {
                   width: 150,
                   height: 150,
                 },
-                title: "Connect a wallet to use Wallaby Pay",
+                title: "Connect a wallet to use LUV NFT Pay",
                 subtitle:
-                  "Wallets help you access your digital assets and sign in to web3 applications.",
+                  "Wallets help you access your digital assets and sign in to web5 applications.",
               }}
               modalTitleIconUrl={""}
               style={{
