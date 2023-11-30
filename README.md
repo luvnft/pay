@@ -39,7 +39,7 @@ Under the hood, it is powered by the following tools:
 
 ## Get Started (Running Locally)
 
-To get Wallaby Pay running on your local machine, it's a simple 3-step process. You'll need to have [Node.js](https://nodejs.org/en/) installed on your machine first.
+To get LUV NFT Pay running on your local machine, it's a simple 3-step process. You'll need to have [Node.js](https://nodejs.org/en/) installed on your machine first.
 
 #### 1. Clone the repo 🌞
 

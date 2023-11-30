@@ -14,7 +14,7 @@ export default function Home() {
     <AppContainer>
       <div className="container justify-center flex flex-col lg:flex-row lg:justify-around items-center gap-8 lg:gap-0">
         <div className="mt-48 lg:-mt-72 flex flex-col items-center lg:items-start">
-          <Badge className="w-24">🏦 PAY</Badge>
+          <Badge className="w-24">✨ PAY.</Badge>
           <h1 className="mt-4 text-5xl lg:text-7xl font-bold lg:font-extrabold max-w-xl leading-snug text-center lg:text-start text-slate-900">
             IN LUV WE TRUST
           </h1>

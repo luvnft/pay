@@ -67,7 +67,7 @@ export default function NetworkSwitchDialog({ isOpen }: Props) {
                 width: 150,
                 height: 150,
               },
-              title: "Connect a wallet to use Wallaby Pay",
+              title: "Connect a wallet to use LUV NFT Pay",
               subtitle:
                 "Wallets help you access your digital assets and sign in to web3 applications.",
             }}
