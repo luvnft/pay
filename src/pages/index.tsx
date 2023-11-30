@@ -25,7 +25,7 @@ export default function Home() {
           <div className="flex flex-col lg:flex-row gap-4 w-full lg:w-auto justify-center lg:justify-start">
             <Link href="/login" passHref>
               <Button className="w-full lg:w-48 h-14 text-lg font-semibold">
-                Get Started
+                SEND
               </Button>
             </Link>
 
